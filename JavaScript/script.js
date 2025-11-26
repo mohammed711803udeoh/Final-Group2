@@ -42,6 +42,8 @@ function setupFilters() {
     }
 }
 
+// This is my controbution
+
 function filterProducts() {
     const searchTerm = document.getElementById('search-input').value.toLowerCase();
     const category = document.getElementById('category-filter').value;
